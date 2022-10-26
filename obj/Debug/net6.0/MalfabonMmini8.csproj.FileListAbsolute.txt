@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\bin\Debug\net6.0\MalfabonMmini8.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\bin\Debug\net6.0\MalfabonMmini8.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\bin\Debug\net6.0\MalfabonMmini8.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\bin\Debug\net6.0\MalfabonMmini8.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\bin\Debug\net6.0\MalfabonMmini8.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\refint\MalfabonMmini8.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\MalfabonMmini8.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\michelleGuessIt\GuessIt\obj\Debug\net6.0\ref\MalfabonMmini8.dll
